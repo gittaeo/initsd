@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#this is sd init script
 cat << HERE1
 Installs Anaconda2 2.4.1
 
